@@ -12,5 +12,6 @@ Library/metadata
 Library/previews
 Library/guidmapper
 Temp
-*.pidb
 build
+*.pidb
+*.dwlt
