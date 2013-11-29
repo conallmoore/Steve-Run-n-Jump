@@ -470,6 +470,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a0c5d5f9af98314ab2d472be7674f13, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Player: {fileID: 2028901371}
   SpiderPrefab: {fileID: 400022, guid: 871288c0b9d991c488bf722d523e4de8, type: 2}
   SpiderWaitTime: 2
 --- !u!4 &2108871532

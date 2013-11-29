@@ -3,6 +3,7 @@ using System.Collections;
 
 public class SpiderSpitter : MonoBehaviour {
 
+	public Transform Player;
 	public Transform SpiderPrefab;
 	public float SpiderWaitTime = 2;
 	private float WaitTime = 0;
@@ -20,7 +21,9 @@ public class SpiderSpitter : MonoBehaviour {
 		if (WaitTime > SpiderWaitTime)
 		{
 			WaitTime = 0;
-			Instantiate(SpiderPrefab, this.transform.position, this.transform.rotation);
+			Transform newTransform = (Transform) Instantiate(SpiderPrefab, this.transform.position, this.transform.rotation);
+			SpiderControl newSpider = newTransform.gameObject.GetComponent<SpiderControl>();
+			newSpider.Player = Player;
 		}
 	}
 }

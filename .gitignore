@@ -15,3 +15,6 @@ Temp
 build
 *.pidb
 *.dwlt
+*.sln
+*.csproj
+*.userprefs
