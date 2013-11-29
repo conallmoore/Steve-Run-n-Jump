@@ -35,13 +35,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 100000}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 36b3798798d9b7f49811935a82310918, type: 3}
+  m_Script: {fileID: 11500000, guid: d47e8ab0ba41a1d4292ff4e2f8d440fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CloudSpeed: -.100000001
-  MinX: -100
-  MaxX: 100
-  alpha: .200000003
+  Speed: 1
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
