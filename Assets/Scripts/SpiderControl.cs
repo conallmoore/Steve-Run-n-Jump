@@ -4,14 +4,14 @@ using System.Collections;
 public class SpiderControl : MonoBehaviour {
 
 	public Transform Player;
-	public float Speed = 10;
 	private float initialPlayerDistance;
+	public float Speed = 10;
 
 	void FixedUpdate ()
 	{
 		rigidbody.AddForce(Speed * -1, 0, 0);
 	}
-
+	
 	void Start ()
 	{
 		initialPlayerDistance = Vector3.Distance(this.transform.position, Player.transform.position);
