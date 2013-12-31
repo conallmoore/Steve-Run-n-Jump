@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 27c5dd4e73667024c8a22dc5fd5e9dd2
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BackgroundCube
+    100004: Body
+    100006: Camera
+    100008: ChestBone
+    100010: Hat_Layer
+    100012: Head
+    100014: HeadBone
+    100016: HipBone
+    100018: Left_Arm
+    100020: Left_Leg
+    100022: LowerLeftArm
+    100024: LowerLeftLeg
+    100026: LowerRightArm
+    100028: LowerRightLeg
+    100030: Right_Arm
+    100032: Right_Leg
+    100034: //RootNode
+    100036: Sun
+    100038: UpperLeftArm
+    100040: UpperLeftLeg
+    100042: UpperRightArm
+    100044: UpperRightLeg
+    400000: Armature
+    400002: BackgroundCube
+    400004: Body
+    400006: Camera
+    400008: ChestBone
+    400010: Hat_Layer
+    400012: Head
+    400014: HeadBone
+    400016: HipBone
+    400018: Left_Arm
+    400020: Left_Leg
+    400022: LowerLeftArm
+    400024: LowerLeftLeg
+    400026: LowerRightArm
+    400028: LowerRightLeg
+    400030: Right_Arm
+    400032: Right_Leg
+    400034: //RootNode
+    400036: Sun
+    400038: UpperLeftArm
+    400040: UpperLeftLeg
+    400042: UpperRightArm
+    400044: UpperRightLeg
+    2300000: BackgroundCube
+    3300000: BackgroundCube
+    4300000: Body
+    4300002: Head
+    4300004: Hat_Layer
+    4300006: Left_Arm
+    4300008: Right_Arm
+    4300010: Left_Leg
+    4300012: Right_Leg
+    4300014: BackgroundCube
+    7400000: Default Take
+    7400002: Idle
+    7400004: Jump
+    7400006: Run
+    7400008: Jump_001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body
+    13700002: Hat_Layer
+    13700004: Head
+    13700006: Left_Arm
+    13700008: Left_Leg
+    13700010: Right_Arm
+    13700012: Right_Leg
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

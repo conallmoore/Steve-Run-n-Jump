@@ -20,7 +20,7 @@ public class SpiderControl : MonoBehaviour {
 	void Update ()
 	{
 		if (Player != null) {
-			if (Vector3.Distance(this.transform.position, Player.transform.position) > initialPlayerDistance)
+			if (Vector3.Distance(this.transform.position, Player.transform.position) > initialPlayerDistance * 2)
 			{
 				Destroy(this.gameObject);
 			}
