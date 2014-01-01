@@ -124,7 +124,7 @@ GUIText:
   m_GameObject: {fileID: 125840844}
   m_Enabled: 1
   serializedVersion: 3
-  m_Text: Stuff
+  m_Text: LivesText
   m_Anchor: 2
   m_Alignment: 2
   m_PixelOffset: {x: 0, y: 0}
@@ -1586,7 +1586,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Player: {fileID: 2028901371}
   SpiderPrefab: {fileID: 400022, guid: 871288c0b9d991c488bf722d523e4de8, type: 2}
-  SpiderWaitTime: 1
+  MinSpiderWaitTime: .5
+  MaxSpiderWaitTime: 2
 --- !u!4 &2108871532
 Transform:
   m_ObjectHideFlags: 0
