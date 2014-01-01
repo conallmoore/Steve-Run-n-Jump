@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 4b2869e4d4f42ec4c9bbdff3ed848abc
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Camera
+    100002: cobble_stairs_001
+    100004: fence_post
+    100006: fenceARRAY
+    100008: //RootNode
+    100010: fencesingle
+    100012: halfblock
+    100014: halfblock_001
+    100016: halfblock_wood
+    100018: pressureplate_wood
+    100020: Sun
+    100022: wood_stairs
+    400000: Camera
+    400002: cobble_stairs_001
+    400004: fence_post
+    400006: fenceARRAY
+    400008: //RootNode
+    400010: fencesingle
+    400012: halfblock
+    400014: halfblock_001
+    400016: halfblock_wood
+    400018: pressureplate_wood
+    400020: Sun
+    400022: wood_stairs
+    2300000: cobble_stairs_001
+    2300002: fence_post
+    2300004: fenceARRAY
+    2300006: fencesingle
+    2300008: halfblock
+    2300010: halfblock_001
+    2300012: halfblock_wood
+    2300014: pressureplate_wood
+    2300016: wood_stairs
+    2300018: //RootNode
+    3300000: cobble_stairs_001
+    3300002: fence_post
+    3300004: fenceARRAY
+    3300006: fencesingle
+    3300008: halfblock
+    3300010: halfblock_001
+    3300012: halfblock_wood
+    3300014: pressureplate_wood
+    3300016: wood_stairs
+    3300018: //RootNode
+    4300000: halfblock_001
+    4300002: pressureplate_wood
+    4300004: fencesingle
+    4300006: fence_post
+    4300008: fenceARRAY
+    4300010: cobble_stairs_001
+    4300012: wood_stairs
+    4300014: halfblock_wood
+    4300016: halfblock
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
